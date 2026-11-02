@@ -1,0 +1,2 @@
+# Dual-Branch-Fully-Convolutional-Segment-Anything-Model-for-Lesion-Segmentation-in-Endoscopic-Images
+Developed an enhanced U-Net model for endoscopic lesion segmentation, improving lesion boundary detection and localization. Integrated OpenCV preprocessing techniques, including noise reduction, contrast enhancement, and image normalization, to improve segmentation accuracy and robustness for medical image analysis.
